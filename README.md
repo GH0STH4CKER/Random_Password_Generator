@@ -1,3 +1,5 @@
+<img src='https://img.shields.io/badge/Author-GH0STH4CKER-success?style=flat&logo=github' ></a>
+
 ## Differences in this GUI program :
 
 * Default titlebar removed

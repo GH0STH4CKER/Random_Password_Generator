@@ -7,11 +7,7 @@ Differences in this GUI program :
 * Drag & move window from any point
 
 ### Program work like this 
-<video width="320" height="240" controls>
-  <source src="https://user-images.githubusercontent.com/62290930/151160789-84b0d3a6-31f3-4019-9224-a04fdf98ce88.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-</video>
-
+https://user-images.githubusercontent.com/62290930/151160789-84b0d3a6-31f3-4019-9224-a04fdf98ce88.mp4
 
 
 ### Installation & Executing

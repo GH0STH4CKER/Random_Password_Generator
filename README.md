@@ -26,10 +26,10 @@ See Code : <a href='https://github.com/GH0STH4CKER/PyQt5_Sample_GUI_Program/blob
 
 ### Installation & Executing
 ```
-git clone https://github.com/GH0STH4CKER/PyQt5_Sample_GUI_Program.git
-cd PyQt5_Sample_GUI_Program
+git clone https://github.com/GH0STH4CKER/Random_Password_Generator.git
+cd Random_Password_Generator
 pip install -r requirements.txt
-python PYQT5_Validate_Email_run.py
+python PasswordGenRUN.py.py
 ```
 <br>
 

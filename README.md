@@ -1,6 +1,4 @@
-### Random password generator made with python. PyQt5 module is used to design GUI.
-
-### Differences in this GUI program :
+## Differences in this GUI program :
 
 * Default titlebar removed
 * Custom Minimize,Maximize and Close Buttons

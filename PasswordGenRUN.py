@@ -203,22 +203,22 @@ class Window(qt.QMainWindow):
     def eventFilter(self, object, event):
         
         if event.type() == QEvent.Enter and object is self.ui.btnMin :
-            self.ui.btnMin.setStyleSheet("background-image: url(C:/Users/Dimuth De Zoysa/Desktop/Python_projects/ICO/minimize_highlight.png);background-color: transparent;")
+            self.ui.btnMin.setStyleSheet("background-image: url(/ICO/minimize_highlight.png);background-color: transparent;")
             return True
         elif event.type() == QEvent.Leave and object is self.ui.btnMin :
-            self.ui.btnMin.setStyleSheet("background-image: url(C:/Users/Dimuth De Zoysa/Desktop/Python_projects/ICO/minimize_normal.png);background-color: transparent;")
+            self.ui.btnMin.setStyleSheet("background-image: url(/ICO/minimize_normal.png);background-color: transparent;")
         
         if event.type() == QEvent.Enter and object is self.ui.btnMax :
-            self.ui.btnMax.setStyleSheet("background-image: url(C:/Users/Dimuth De Zoysa/Desktop/Python_projects/ICO/maximize_highlight.png);background-color: transparent;")
+            self.ui.btnMax.setStyleSheet("background-image: url(/ICO/maximize_highlight.png);background-color: transparent;")
             return True
         elif event.type() == QEvent.Leave and object is self.ui.btnMax :
-            self.ui.btnMax.setStyleSheet("background-image: url(C:/Users/Dimuth De Zoysa/Desktop/Python_projects/ICO/maximize_normal.png);background-color: transparent;")
+            self.ui.btnMax.setStyleSheet("background-image: url(ICO/maximize_normal.png);background-color: transparent;")
 
         if event.type() == QEvent.Enter and object is self.ui.btnClose :
-            self.ui.btnClose.setStyleSheet("background-image: url(C:/Users/Dimuth De Zoysa/Desktop/Python_projects/ICO/close_highlight.png);background-color: transparent;")
+            self.ui.btnClose.setStyleSheet("background-image: url(/ICO/close_highlight.png);background-color: transparent;")
             return True
         elif event.type() == QEvent.Leave and object is self.ui.btnClose :
-            self.ui.btnClose.setStyleSheet("background-image: url(C:/Users/Dimuth De Zoysa/Desktop/Python_projects/ICO/close_normal.png);background-color: transparent;")
+            self.ui.btnClose.setStyleSheet("background-image: url(/ICO/close_normal.png);background-color: transparent;")
         
         return False
 

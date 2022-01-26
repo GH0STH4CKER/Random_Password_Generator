@@ -7,22 +7,7 @@ Differences in this GUI program :
 * Drag & move window from any point
 
 ### Program work like this 
-<img src='https://raw.githubusercontent.com/GH0STH4CKER/PyQt5_Sample_GUI_Program/main/images/Running_program_Pyqt5.gif' width='300px'>
-
-### Designed GUI using Designer.exe in pyqt5-tools 
-<img src='https://raw.githubusercontent.com/GH0STH4CKER/PyQt5_Sample_GUI_Program/main/images/QT_Designer_Img.png' width='1000px' >
-
-Ui file : <a href='https://github.com/GH0STH4CKER/PyQt5_Sample_GUI_Program/blob/main/emailvalidate.ui'>Here</a>
-
-### Converted .ui file to .py file
-```
-pyuic5 -x {your ui file.ui} -o {output py file.py}
-```
-Output file : <a href='https://github.com/GH0STH4CKER/PyQt5_Sample_GUI_Program/blob/main/PYQT5_Validate_Email_ui.py'>Here</a>
-
-### Created new .py file to add functionality
-
-See Code : <a href='https://github.com/GH0STH4CKER/PyQt5_Sample_GUI_Program/blob/main/PYQT5_Validate_Email_run.py'>Here</a>
+<img src='' width='300px'>
 
 ### Installation & Executing
 ```

@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/62290930/151160789-84b0d3a6-31f3-4019-
 git clone https://github.com/GH0STH4CKER/Random_Password_Generator.git
 cd Random_Password_Generator
 pip install -r requirements.txt
-python PasswordGenRUN.py.py
+python PasswordGenRUN.py
 ```
 <br>
 

@@ -17,7 +17,7 @@ cd Random_Password_Generator
 pip install -r requirements.txt
 python PasswordGenRUN.py
 ```
-<br>
+
 
 ### Download Executable file here
 <a href="https://mega.nz/file/ckACVTYR#2YralWqHRydAu8WNOU9gYlUz1oVpmEUdUYuRdfCJtKw" target="_blank"><img src="https://user-images.githubusercontent.com/62290930/176133937-e2adb4b1-b220-421f-9a10-281edf9b1c91.png" alt="download button" width="18%"></a>

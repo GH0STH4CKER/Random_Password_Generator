@@ -23,4 +23,4 @@ python PasswordGenRUN.py
 ![VsCode](https://badgen.net/badge/icon/VS%20Code?icon=visualstudio&label=Made%20with)
 <img src='https://img.shields.io/github/license/GH0STH4CKER/Random_Password_Generator.svg'>
 
-<a href="https://mega.nz/file/ckACVTYR#2YralWqHRydAu8WNOU9gYlUz1oVpmEUdUYuRdfCJtKw" target="_blank"><img src="https://user-images.githubusercontent.com/62290930/176133937-e2adb4b1-b220-421f-9a10-281edf9b1c91.png" alt="download button" width="100px"></a>
+<a href="https://mega.nz/file/ckACVTYR#2YralWqHRydAu8WNOU9gYlUz1oVpmEUdUYuRdfCJtKw" target="_blank"><img src="https://user-images.githubusercontent.com/62290930/176133937-e2adb4b1-b220-421f-9a10-281edf9b1c91.png" alt="download button" width="200px"></a>
